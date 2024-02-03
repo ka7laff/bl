@@ -1,2 +1,3 @@
-jg,jgf,gj,
-kjhjgfv
+how does the web work:  The web browser connects to the web server and sends an HTTP
+What do you need to be a web developer: you need to have some skills and computer and you need to learn languages
+Why did you choose to learn web development: i want to learn a new skil, make websites, working on interesting projects
